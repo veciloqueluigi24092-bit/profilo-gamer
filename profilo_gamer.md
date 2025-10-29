@@ -20,11 +20,12 @@
 ---
 
 ## 🖼️ Immagine
-![minecraft](minecraft2.jpeg)
+![minecraft](minecraft2)
 
 ---
 
 ## 📝 Recensione personale
 Minecraft è il gioco che preferisco perché posso costruire liberamente, esplorare e creare tutto ciò che immagino. Mi rilassa.
+
 
 
